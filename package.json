@@ -1,0 +1,21 @@
+{
+  "name": "crud-2",
+  "version": "1.0.0",
+  "description": "proyecto de manon",
+  "main": "gestor_estudiantes.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lenny"
+  },
+  "author": "lenny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "xpress": "^2.4.6"
+  }
+}
